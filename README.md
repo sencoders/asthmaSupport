@@ -95,7 +95,7 @@ The system consists of six layers:
 - Librosa
 
 ## Database
-- MongoDB / Supabase
+- MongoDB Atlas
 
 ## IoT Hardware
 - ESP32 DevKit V1
