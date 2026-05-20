@@ -1,0 +1,110 @@
+# =========================
+# Dependencies
+# =========================
+node_modules/
+vendor/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Build / Production
+# =========================
+dist/
+build/
+.next/
+out/
+
+# =========================
+# Cache Files
+# =========================
+.cache/
+.parcel-cache/
+coverage/
+
+# =========================
+# OS / Editor Files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# =========================
+# Machine Learning Datasets
+# =========================
+ml/datasets/
+ml/models/*.pkl
+*.wav
+
+# =========================
+# Audio Files
+# =========================
+*.wav
+*.mp3
+*.flac
+
+# =========================
+# ML Training Outputs
+# =========================
+checkpoints/
+runs/
+logs/
+tensorboard_logs/
+
+# =========================
+# Large ML Artifacts
+# =========================
+*.ckpt
+*.h5
+*.keras
+*.tflite
+
+# =========================
+# Temporary Files
+# =========================
+tmp/
+temp/
+*.tmp
+
+# =========================
+# Arduino / ESP32
+# =========================
+*.bin
+*.elf
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Mac / Linux Metadata
+# =========================
+*.swp
+*.swo
+
+
+

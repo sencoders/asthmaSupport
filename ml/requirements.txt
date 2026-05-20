@@ -1,0 +1,12 @@
+pymongo
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+jupyter
+torch
+torchaudio
+librosa
+numpy
+soundfile
